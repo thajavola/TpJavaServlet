@@ -1,0 +1,6 @@
+DAO\CompteDAO.class
+DAO\IDAO.class
+Servlet\CompteServlet.class
+DAO\DaoFactory.class
+Model\Compte.class
+Servlet\UpdateServlet.class
